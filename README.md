@@ -13,8 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<div align=center>
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:99BDFF,100:B0E1FA&height=222&section=header&text=HELLO%20WORLD&fontSize=70&fontAlignY=40&fontColor=F7F7F7&desc=PHP%20Web%20Developer%20Hyebin%20Lee&descAlign=60&descAlignY=57&descSize=22)
+</div>
 <h3 align=center>⚔TECH STACK⚔</h3>
 <h4 align=center>🏹Learning...</h4>
 <div align=center>
@@ -24,4 +25,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>&nbsp
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>&nbsp
 </div>
-<div align=center>[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLEEBEEE&count_bg=%23292929&title_bg=%23292929&icon=github.svg&icon_color=%23E8E8E8&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)</div>
+<div align=center>
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLEEBEEE&count_bg=%23292929&title_bg=%23292929&icon=github.svg&icon_color=%23E8E8E8&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+</div>
