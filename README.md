@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 -->
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:99BDFF,100:B0E1FA&height=222&section=header&text=HELLO%20WORLD&fontSize=77&fontAlignY=40&fontColor=F7F7F7&desc=PHP%20Web%20Developer%20Hyebin%20Lee&descAlign=62&descAlignY=57&descSize=22)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:99BDFF,100:B0E1FA&height=222&section=header&text=HELLO%20WORLD&fontSize=66&fontAlignY=40&fontColor=F7F7F7&desc=PHP%20Web%20Developer%20Hyebin%20Lee&descAlign=62&descAlignY=57&descSize=22)
