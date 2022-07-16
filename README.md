@@ -30,11 +30,13 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-<h3>🕹 GitHub 🎮</h3>
+<h3>📚 GitHub Stat ✨</h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LEEBEEE&show_icons=true&theme=dracula)
 
 <br>
+
+<h3>📜 Most Used Languages 🖊</h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LEEBEEE&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br>
