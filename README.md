@@ -27,6 +27,11 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
 <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
 
+<h4>🗡 Skills</h4>
+<img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=for-the-badge&logo=AdobePhotoshop&logoColor=white">
+<img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=for-the-badge&logo=AdobeIllustrator&logoColor=white">
+<img src="https://img.shields.io/badge/Figma-222222?style=for-the-badge&logo=Figma&logoColor=white">
+
 <br>
 <br>
 
