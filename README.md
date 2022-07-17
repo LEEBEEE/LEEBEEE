@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <div align=center>
 
-![header align=center](https://capsule-render.vercel.app/api?type=waving&color=0:99BDFF,100:B0E1FA&height=222&section=header&text=HELLO%20WORLD&fontSize=70&fontAlignY=40&fontColor=F7F7F7&desc=PHP%20Web%20Developer%20Hyebin%20Lee&descAlign=60&descAlignY=57&descSize=22)
+![header align=center](https://capsule-render.vercel.app/api?type=waving&color=0:99BDFF,100:B0E1FA&height=222&section=header&text=HELLO%20WORLD&fontSize=70&fontAlignY=40&fontColor=F7F7F7&desc=PHP%20Web%20Developer,%20Hyebin%20Lee&descAlign=60&descAlignY=57&descSize=22)
 <h3>⚔ TECH STACK ⚔</h3>
 <h4>🏹 Learning...</h4>
 
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
 <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
 
-<h4>🗡 Skills</h4>
+<h4>🗡 Other Skills</h4>
 <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=for-the-badge&logo=AdobePhotoshop&logoColor=white">
 <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=for-the-badge&logo=AdobeIllustrator&logoColor=white">
 <img src="https://img.shields.io/badge/Figma-222222?style=for-the-badge&logo=Figma&logoColor=white">
