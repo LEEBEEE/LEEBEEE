@@ -35,12 +35,12 @@ Here are some ideas to get you started:
 <br>
 <h3>📜 Most Used Languages 🖊</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LEEBEEE&layout=compact&hide=hack&theme=algolia)](https://github.com/LEEBEEE/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LEEBEEE&layout=compact&hide=hack&theme=react)](https://github.com/LEEBEEE/github-readme-stats)
   
 <br>
 <h3>📚 GitHub Stat ✨</h3>
 
-![LEEBEEE's GitHub stats](https://github-readme-stats.vercel.app/api?username=LEEBEEE&show_icons=true&theme=algolia)
+![LEEBEEE's GitHub stats](https://github-readme-stats.vercel.app/api?username=LEEBEEE&show_icons=true&theme=react)
 
 <br>
 <br>
