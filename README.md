@@ -36,13 +36,13 @@ Here are some ideas to get you started:
 
 <h3>📚 GitHub Stat ✨</h3>
 
-![LEEBEEE's GitHub stats](https://github-readme-stats.vercel.app/api?username=LEEBEEE&show_icons=true&theme=dracula)
+![LEEBEEE's GitHub stats](https://github-readme-stats.vercel.app/api?username=LEEBEEE&show_icons=true&theme=algolia)
 
 <br>
 
 <h3>📜 Most Used Languages 🖊</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LEEBEEE&layout=compact&hide=hack)](https://github.com/LEEBEEE/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LEEBEEE&layout=compact&hide=hack&theme=algolia)](https://github.com/LEEBEEE/github-readme-stats)
 <br>
 <br>
 
