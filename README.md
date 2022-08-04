@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ![header align=center](https://capsule-render.vercel.app/api?type=waving&color=0:99BDFF,100:B0E1FA&height=222&section=header&text=HELLO%20WORLD&fontSize=70&fontAlignY=40&fontColor=F7F7F7&desc=PHP%20Web%20Developer,%20Hyebin%20Lee&descAlign=60&descAlignY=57&descSize=22)
 
-<h3> 💻 PORTFOLIO </h3>
+<h3>💻 PORTFOLIO ⌨</h3>
 <a href="https://hbdevelop.notion.site/LEE-HYEBIN-ef4e44f85f48480cb28d60b1bfab0869"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/></a> ↖
 
 <h3>⚔ TECH STACK ⚔</h3>
